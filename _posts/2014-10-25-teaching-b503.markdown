@@ -1,0 +1,20 @@
+---
+layout: post
+title: "CSCI B503 Algorithm Design and Analysis"
+date: 2014-10-25 15:31:25 -0400
+comments: true
+published: false
+categories: [Algorithm, CS, teaching]
+---
+I am the associated instructor (generally known as TA) for *CSCI B503 Algorithm Design and Analysis*, instructed by professor Funda Ergun. Course page can be found [here](http://homes.soic.indiana.edu/fergun/TEACHING/FA14/503.html).
+
+This course intends to be a graduate level course but is relatively easy compared with the algorithm course I took when I was an undergrad.
+
+Homework assignments and the solutions I compiled for this course will be posed in this page.
+
+## Assignments and Solutions
+
++ [Assignment 1](/resources/B503/hw1.pdf), [Solution](/resources/B503/solution_1.pdf)
++ [Assignment 2](/resources/B503/hw2.pdf), [Solution](/resources/B503/solution_2.pdf)
++ [Assignment 3](/resources/B503/hw3.pdf), [Solution](/resources/B503/solution_3.pdf)
++ [Assignment 4](/resources/B503/hw4.pdf), [Solution](/resources/B503/solution_4.pdf)
