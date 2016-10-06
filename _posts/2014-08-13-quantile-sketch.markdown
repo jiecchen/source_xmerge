@@ -3,6 +3,7 @@ layout: post
 title: "Quantile Problem in streaming model"
 date: 2014-08-13 20:55:04 -0400
 comments: true
+published: false
 categories: [Algorithm, Streaming, CS]
 ---
 I will give a deterministic approximation algorithm that constructs a data structure through a single pass of the a data stream, uses only $O(\log n / \epsilon)$ words space. For all $k$, such data structure is able to give a $(1 + \epsilon)$-approximation to the $k$th smallest item.

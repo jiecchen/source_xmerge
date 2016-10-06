@@ -4,6 +4,7 @@ title: "Mathematica Programming-An Advanced Introduction"
 date: 2014-08-19 17:57:53 -0400
 comments: true
 categories: [mathematica, CN]
+published: false
 ---
 
 
